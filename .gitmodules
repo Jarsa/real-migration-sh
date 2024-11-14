@@ -1,113 +1,88 @@
-[submodule "odoo-utilities"]
-	path = odoo-utilities
-	url = git@git.vauxoo.com:jarsa/odoo-utilities.git
-	branch = 14.0
+[submodule "google-spreadsheet-import"]
+	path = google-spreadsheet-import
+	url = git@git.jarsa.com:Jarsa/google-spreadsheet-import.git
+	branch = 17.0
 [submodule "server-backend"]
 	path = server-backend
-	url = git@github.com:jarsa/server-backend.git
-	branch = 14.0
+	url = git@github.com:Jarsa/server-backend.git
+	branch = 17.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
-	url = git@github.com:jarsa/stock-logistics-warehouse.git
-	branch = 14.0
-[submodule "mexico"]
-	path = mexico
-	url = git@git.vauxoo.com:jarsa/mexico.git
-	branch = 14.0
+	url = git@github.com:Jarsa/stock-logistics-warehouse.git
+	branch = 17.0
 [submodule "bank-payment"]
 	path = bank-payment
-	url = git@github.com:jarsa/bank-payment.git
-	branch = 14.0
-[submodule "credit-control"]
-	path = credit-control
-	url = git@github.com:jarsa/credit-control.git
-	branch = 14.0
+	url = git@github.com:Jarsa/bank-payment.git
+	branch = 17.0
 [submodule "server-ux"]
 	path = server-ux
-	url = git@github.com:jarsa/server-ux.git
-	branch = 14.0
+	url = git@github.com:Jarsa/server-ux.git
+	branch = 17.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
-	url = git@github.com:jarsa/stock-logistics-workflow.git
-	branch = 14.0
-[submodule "mexico-document"]
-	path = mexico-document
-	url = git@git.vauxoo.com:jarsa/mexico-document.git
-	branch = 14.0
+	url = git@github.com:Jarsa/stock-logistics-workflow.git
+	branch = 17.0
 [submodule "account-analytic"]
 	path = account-analytic
-	url = git@github.com:jarsa/account-analytic.git
-	branch = 14.0
+	url = git@github.com:Jarsa/account-analytic.git
+	branch = 17.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
-	url = git@github.com:jarsa/account-financial-tools.git
-	branch = 14.0
+	url = git@github.com:Jarsa/account-financial-tools.git
+	branch = 17.0
 [submodule "server-tools"]
 	path = server-tools
-	url = git@github.com:jarsa/server-tools.git
-	branch = 14.0
+	url = git@github.com:Jarsa/server-tools.git
+	branch = 17.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
-	url = git@github.com:jarsa/purchase-workflow.git
-	branch = 14.0
+	url = git@github.com:Jarsa/purchase-workflow.git
+	branch = 17.0
 [submodule "web"]
 	path = web
-	url = git@github.com:jarsa/web.git
-	branch = 14.0
+	url = git@github.com:Jarsa/web.git
+	branch = 17.0
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
-	url = git@github.com:jarsa/account-financial-reporting.git
-	branch = 14.0
+	url = git@github.com:Jarsa/account-financial-reporting.git
+	branch = 17.0
 [submodule "stock-logistics-reporting"]
 	path = stock-logistics-reporting
-	url = git@github.com:jarsa/stock-logistics-reporting.git
-	branch = 14.0
+	url = git@github.com:Jarsa/stock-logistics-reporting.git
+	branch = 17.0
 [submodule "manufacture"]
 	path = manufacture
-	url = git@github.com:jarsa/manufacture.git
-	branch = 14.0
-
-[submodule "xunnel-account"]
-	path = xunnel-account
-	url = git@git.vauxoo.com:jarsa/xunnel-account.git
-	branch = 14.0
+	url = git@github.com:Jarsa/manufacture.git
+	branch = 17.0
 [submodule "reporting-engine"]
 	path = reporting-engine
-	url = git@github.com:jarsa/reporting-engine.git
-	branch = 14.0
-[submodule "payroll"]
-	path = payroll
-	url = git@github.com:itadmin01/jarsa.git
-	branch = 14.0
+	url = git@github.com:Jarsa/reporting-engine.git
+	branch = 17.0
 [submodule "account-reconcile"]
 	path = account-reconcile
-	url = git@github.com:jarsa/account-reconcile.git
-	branch = 14.0
-[submodule "account-fix-tools"]
-	path = account-fix-tools
-	url = git@github.com:jarsa/account-fix-tools.git
-	branch = 14.0
+	url = git@github.com:Jarsa/account-reconcile.git
+	branch = 17.0
 [submodule "mis-builder"]
 	path = mis-builder
-	url = git@github.com:OCA/mis-builder.git
-	branch = 14.0
+	url = git@github.com:Jarsa/mis-builder.git
+	branch = 17.0
 [submodule "account-payment"]
 	path = account-payment
-	url = git@github.com:jarsa/account-payment.git
-	branch = 14.0
+	url = git@github.com:Jarsa/account-payment.git
+	branch = 17.0
 [submodule "product-attribute"]
 	path = product-attribute
 	url = git@github.com:Jarsa/product-attribute.git
-	branch = 14.0
-[submodule "edi-document"]
-	path = edi-document
-	url = git@git.vauxoo.com:jarsa/edi-document.git
-	branch = 14.0
+	branch = 17.0
 [submodule "odoo-cloc"]
 	path = odoo-cloc
 	url = git@github.com:Jarsa/odoo-cloc.git
-	branch = 14.0
+	branch = 17.0
 [submodule "real"]
 	path = real
 	url = git@git.jarsa.com:Jarsa/real.git
-	branch = 14.0
+	branch = 17.0
+[submodule "credit-control"]
+	path = credit-control
+	url = git@github.com:Jarsa/credit-control.git
+	branch = 17.0

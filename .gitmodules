@@ -86,3 +86,8 @@
 	path = credit-control
 	url = git@github.com:Jarsa/credit-control.git
 	branch = 17.0
+
+[submodule "Jarsa-dev/stock-logistics-warehouse"]
+	path = Jarsa-dev/stock-logistics-warehouse
+	url = git@github.com:Jarsa-dev/stock-logistics-warehouse.git
+	branch = 17.0-add-stock-request-partner

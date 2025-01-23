@@ -86,3 +86,27 @@
 	path = credit-control
 	url = git@github.com:Jarsa/credit-control.git
 	branch = 17.0
+[submodule "l10n-mx-check-printing"]
+	path = l10n-mx-check-printing
+	url = git@git.vauxoo.com:jarsa/l10n-mx-check-printing.git
+	branch = 17.0
+[submodule "l10n-mx-edi-advance"]
+	path = l10n-mx-edi-advance
+	url = git@git.vauxoo.com:jarsa/l10n-mx-edi-advance.git
+	branch = 17.0
+[submodule "edi-document"]
+	path = edi-document
+	url = git@git.vauxoo.com:jarsa/edi-document.git
+	branch = 17.0
+[submodule "l10n-mx-avoid-reversal-entry"]
+	path = l10n-mx-avoid-reversal-entry
+	url = git@git.vauxoo.com:jarsa/l10n-mx-avoid-reversal-entry.git
+	branch = 17.0
+[submodule "l10n-mx-edi-hr-expense"]
+	path = l10n-mx-edi-hr-expense
+	url = git@git.vauxoo.com:jarsa/l10n-mx-edi-hr-expense.git
+	branch = 17.0
+[submodule "l10n-mx-edi-related-documents"]
+	path = l10n-mx-edi-related-documents
+	url = git@git.vauxoo.com:jarsa/l10n-mx-edi-related-documents.git
+	branch = 17.0
